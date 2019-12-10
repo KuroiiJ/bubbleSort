@@ -12,3 +12,13 @@ function split(wholeArray) {
       let newArr = arr1.concat(arr2)
     return newArr
   }
+
+  function mergeSort(array){
+
+    for (let i = 0; i < array.length; i++){
+        if (){ }
+        
+        if (Array.isArray(array[i])){mergeSort(array[i])}
+    }
+
+  }
